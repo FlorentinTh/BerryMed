@@ -6,7 +6,7 @@
     <img src="https://cdn-shop.adafruit.com/970x728/4582-02.jpg" alt="BM100" height="400px" />
 </p>
 
-Projet to use BerryMed BM100 finger pulse oximeter with a Raspberry Pi using Bluetooth Low Energy.
+Projet to record BerryMed BM100 finger pulse oximeter data with a Raspberry Pi using Bluetooth Low Energy communication.
 
 [https://www.adafruit.com/product/4582](https://www.adafruit.com/product/4582)
 
