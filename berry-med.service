@@ -1,0 +1,14 @@
+[Unit]
+Description=BerryMed
+
+[Service]
+ExecStart=/home/liara/BerryMed/start.sh
+Restart=always
+User=liara
+# Note Debian/Ubuntu uses 'nogroup', RHEL/Fedora uses 'nobody'
+Group=nogroup
+Environment=PATH=/usr/bin:/usr/local/bin
+WorkingDirectory=/home/liara/BerryMed/
+
+[Install]
+WantedBy=multi-user.target
