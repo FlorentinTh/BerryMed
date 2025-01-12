@@ -14,6 +14,10 @@ Projet to use BerryMed BM100 finger pulse oximeter with a Raspberry Pi using Blu
 
 - [**Florentin Thullier**](https://github.com/FlorentinTh) - 2025
 
+## Data
+
+Example of recorded data can be found [here](/data/data.csv).
+
 ## Configuration
 
 ### Setup the Raspberry Pi
